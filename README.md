@@ -1,7 +1,7 @@
 # ssc-website
 وب سایت انجمن علمی دانشجویی مهندسی کامپیوتر
 
-# how use virtual enviroment
+# how to use virtual enviroment
 i just created a virtual env with this command(you don't have to do that)
 ```bash
 python -m venv .venv
